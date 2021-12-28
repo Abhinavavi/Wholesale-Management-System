@@ -1,0 +1,2 @@
+# Wholesale-Management-System
+Wholesale Management System Database Project Maintain the details of stock like their id, name, quantity. Maintain the details of buyers from which the manager has to buy the stock like buyer id, name, address, stock id to be bought. Details of customers i.e. name, address, id. Defaulter’s list of customers who have not paid their pending amount. List of payments paid or pending.
